@@ -1,0 +1,8 @@
+name: "Shiny Brews"
+navbar:
+  title: "Brewvigator"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Shinybrew"
+      href: ShinyBrew.html
